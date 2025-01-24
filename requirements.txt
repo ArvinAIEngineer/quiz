@@ -4,3 +4,4 @@ llama-index
 groq
 pdfplumber
 psycopg2-binary
+llama_index.llms.groq
