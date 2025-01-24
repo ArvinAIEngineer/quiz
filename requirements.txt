@@ -3,3 +3,4 @@ python-dotenv
 llama-index
 groq
 pdfplumber
+psycopg2-binary
